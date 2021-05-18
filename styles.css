@@ -1,0 +1,30 @@
+img{
+    border: firebrick;
+    border-style: dashed;
+    border-top: white;
+}
+.nav-link{
+    font: Times;
+    color: blue;
+    font-size: large;
+}
+p{
+    color: teal;
+    font-family: 'Gill Sans';
+
+}
+h3{
+    color:teal;
+    font-size: large;
+    align-items: center;
+}
+h4{
+    color:teal;
+    font-size: large;
+    align-items: center;
+}
+h5{
+    color:teal;
+    font-size: large;
+    align-content: center;
+}
